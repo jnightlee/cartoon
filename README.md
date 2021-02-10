@@ -5,7 +5,7 @@
 
 
 ##图示
-![my-logo.png](https://img.smzy.com/images/ac/f7/32732309641691c9d6580bd722944b4ecbfff7ac.png)
+![my-logo.png](https://raw.githubusercontent.com/hongchacha/cartoon/main/screenshot.jpg)
 
 ## 感谢
 https://github.com/TongmingWu/Manga
