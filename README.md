@@ -2,10 +2,11 @@
 替代网页浏览器，专门阅读漫画的工具，无需注册完全免费
 
 ## [下载](https://cdn.jsdelivr.net/gh/hongchacha/cartoon/xcartoon.apk)
+[下载2](https://github.com/hongchacha/cartoon/raw/main/xcartoon.apk)
 
 
-##图示
-![screenshot](https://raw.githubusercontent.com/hongchacha/cartoon/main/screenshot.jpg)
+## 图示
+<img src="https://raw.githubusercontent.com/hongchacha/cartoon/main/screenshot.jpg" width="300" >
 
 ## 感谢
 https://github.com/TongmingWu/Manga
